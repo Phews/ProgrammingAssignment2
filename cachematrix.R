@@ -55,5 +55,3 @@ testCachedMatrix <- function() {
     result = cacheSolve(matrx)
     print(result)    
 }
-
-testCachedMatrix()
